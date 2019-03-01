@@ -1,1 +1,1 @@
-my first document in git
+my first document in git, Hello
